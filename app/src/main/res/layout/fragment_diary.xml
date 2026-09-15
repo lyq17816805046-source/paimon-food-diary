@@ -1,1 +1,107 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOnBhZGRpbmc9IjEyZHAiPgoKICAgIDxFZGl0VGV4dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VhcmNoX2JveCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6aGludD0iQHN0cmluZy9zZWFyY2hfaGludCIKICAgICAgICBhbmRyb2lkOmlucHV0VHlwZT0idGV4dCIKICAgICAgICBhbmRyb2lkOm1heExpbmVzPSIxIgogICAgICAgIGFuZHJvaWQ6ZHJhd2FibGVTdGFydD0iQGRyYXdhYmxlL2ljX3NlYXJjaCIKICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUGFkZGluZz0iOGRwIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMTJkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9iZ19jaGlwIgogICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE0c3AiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvU3RhcnRPZj0iQGlkL2NoaXBfY2F0ZWdvcnlfcGlja2VyIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jaGlwX2NhdGVnb3J5X3BpY2tlciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMGRwIgogICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZ1N0YXJ0PSIxNGRwIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZ0VuZD0iMTRkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iOGRwIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9waWNrX2NhdGVnb3J5X3Nob3J0IgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTNzcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9iZ19idXR0b25fY2hpcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvc2VhcmNoX2JveCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL3NlYXJjaF9ib3giIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jb3VudF92aWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxMGRwIgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvdGV4dF9kaW0iCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTJzcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3NlYXJjaF9ib3giIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9maWx0ZXJfY2hpcCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMTBkcCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvYWxsX2NhdGVnb3JpZXMiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9wYWltb25fY3lhbiIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMnNwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvRW5kT2Y9IkBpZC9jb3VudF92aWV3IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvc2VhcmNoX2JveCIgLz4KCiAgICA8YW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JlY3ljbGVyIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI2ZHAiCiAgICAgICAgYW5kcm9pZDpjbGlwVG9QYWRkaW5nPSJmYWxzZSIKICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209Ijg4ZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9jb3VudF92aWV3IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9lbXB0eV92aWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpkcmF3YWJsZVBhZGRpbmc9IjEwZHAiCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2VtcHR5X25vX2RhdGEiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci90ZXh0X2RpbSIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNXNwIgogICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL3JlY3ljbGVyIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJAaWQvcmVjeWNsZXIiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIgLz4KCiAgICA8Y29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsLmZsb2F0aW5nYWN0aW9uYnV0dG9uLkZsb2F0aW5nQWN0aW9uQnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9mYWJfYWRkIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19hZGQiCiAgICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkBzdHJpbmcvYWRkX2VudHJ5IgogICAgICAgIGFwcDpiYWNrZ3JvdW5kVGludD0iQGNvbG9yL3BhaW1vbl9nb2xkIgogICAgICAgIGFwcDp0aW50PSJAY29sb3IvcGFpbW9uX2JsdWVfZGVlcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiIC8+CgogICAgPGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5mbG9hdGluZ2FjdGlvbmJ1dHRvbi5FeHRlbmRlZEZsb2F0aW5nQWN0aW9uQnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9mYWJfcmFuZG9tIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3BhaW1vbl9waWNrIgogICAgICAgIGFwcDppY29uPSJAZHJhd2FibGUvaWNfZGljZSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IiAvPgoKPC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0Pgo=
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp">
+
+    <EditText
+        android:id="@+id/search_box"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/search_hint"
+        android:inputType="text"
+        android:maxLines="1"
+        android:drawableStart="@drawable/ic_search"
+        android:drawablePadding="8dp"
+        android:padding="12dp"
+        android:background="@drawable/bg_chip"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/chip_category_picker"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/chip_category_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:paddingStart="14dp"
+        android:paddingEnd="14dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/pick_category_short"
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        android:background="@drawable/bg_button_chip"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/search_box"
+        app:layout_constraintBottom_toBottomOf="@id/search_box" />
+
+    <TextView
+        android:id="@+id/count_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/text_dim"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/search_box" />
+
+    <TextView
+        android:id="@+id/filter_chip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:text="@string/all_categories"
+        android:textColor="@color/paimon_cyan"
+        android:textSize="12sp"
+        app:layout_constraintStart_toEndOf="@id/count_view"
+        app:layout_constraintTop_toBottomOf="@id/search_box" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="6dp"
+        android:clipToPadding="false"
+        android:paddingBottom="88dp"
+        app:layout_constraintTop_toBottomOf="@id/count_view"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawablePadding="10dp"
+        android:gravity="center"
+        android:text="@string/empty_no_data"
+        android:textColor="@color/text_dim"
+        android:textSize="15sp"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="@id/recycler"
+        app:layout_constraintBottom_toBottomOf="@id/recycler"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_add"
+        android:contentDescription="@string/add_entry"
+        app:backgroundTint="@color/paimon_gold"
+        app:tint="@color/paimon_blue_deep"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:id="@+id/fab_random"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/paimon_pick"
+        app:icon="@drawable/ic_dice"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

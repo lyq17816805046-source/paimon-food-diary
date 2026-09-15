@@ -1,1 +1,165 @@
-cGFja2FnZSBjb20ucGFpbW9uLmZvb2RkaWFyeQoKaW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlCmltcG9ydCBhbmRyb2lkLnRleHQuRWRpdGFibGUKaW1wb3J0IGFuZHJvaWQudGV4dC5UZXh0V2F0Y2hlcgppbXBvcnQgYW5kcm9pZC52aWV3LkxheW91dEluZmxhdGVyCmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldwppbXBvcnQgYW5kcm9pZC52aWV3LlZpZXdHcm91cAppbXBvcnQgYW5kcm9pZC53aWRnZXQuRWRpdFRleHQKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3CmltcG9ydCBhbmRyb2lkeC5mcmFnbWVudC5hcHAuRnJhZ21lbnQKaW1wb3J0IGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlcgppbXBvcnQgYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXcKaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5kaWFsb2cuTWF0ZXJpYWxBbGVydERpYWxvZ0J1aWxkZXIKaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5mbG9hdGluZ2FjdGlvbmJ1dHRvbi5FeHRlbmRlZEZsb2F0aW5nQWN0aW9uQnV0dG9uCmltcG9ydCBjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwuZmxvYXRpbmdhY3Rpb25idXR0b24uRmxvYXRpbmdBY3Rpb25CdXR0b24KaW1wb3J0IGtvdGxpbi5yYW5kb20uUmFuZG9tCgpjbGFzcyBEaWFyeUZyYWdtZW50IDogRnJhZ21lbnQoKSB7CgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgcmVjeWNsZXI6IFJlY3ljbGVyVmlldwogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgc2VhcmNoOiBFZGl0VGV4dAogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZW1wdHlWaWV3OiBUZXh0VmlldwogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgY291bnRWaWV3OiBUZXh0VmlldwogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZmlsdGVyQ2hpcDogVGV4dFZpZXcKICAgIHByaXZhdGUgdmFyIGFkYXB0ZXI6IEVudHJ5QWRhcHRlcj8gPSBudWxsCiAgICBwcml2YXRlIHZhciBhbGw6IExpc3Q8Rm9vZEVudHJ5PiA9IGVtcHR5TGlzdCgpCiAgICBwcml2YXRlIHZhciBjYXRlZ29yeUZpbHRlcjogU3RyaW5nPyA9IG51bGwKCiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGVWaWV3KGluZmxhdGVyOiBMYXlvdXRJbmZsYXRlciwgY29udGFpbmVyOiBWaWV3R3JvdXA/LCBzYXZlZDogQnVuZGxlPyk6IFZpZXcgPQogICAgICAgIGluZmxhdGVyLmluZmxhdGUoUi5sYXlvdXQuZnJhZ21lbnRfZGlhcnksIGNvbnRhaW5lciwgZmFsc2UpCgogICAgb3ZlcnJpZGUgZnVuIG9uVmlld0NyZWF0ZWQodmlldzogVmlldywgc2F2ZWQ6IEJ1bmRsZT8pIHsKICAgICAgICByZWN5Y2xlciA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQucmVjeWNsZXIpCiAgICAgICAgc2VhcmNoID0gdmlldy5maW5kVmlld0J5SWQoUi5pZC5zZWFyY2hfYm94KQogICAgICAgIGVtcHR5VmlldyA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZW1wdHlfdmlldykKICAgICAgICBjb3VudFZpZXcgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmNvdW50X3ZpZXcpCiAgICAgICAgZmlsdGVyQ2hpcCA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZmlsdGVyX2NoaXApCiAgICAgICAgcmVjeWNsZXIubGF5b3V0TWFuYWdlciA9IExpbmVhckxheW91dE1hbmFnZXIocmVxdWlyZUNvbnRleHQoKSkKCiAgICAgICAgYWRhcHRlciA9IEVudHJ5QWRhcHRlcihlbXB0eUxpc3QoKSwgOjpvcGVuRW50cnksIDo6dG9nZ2xlRmF2b3JpdGUsIDo6YXNrRGVsZXRlKQogICAgICAgIHJlY3ljbGVyLmFkYXB0ZXIgPSBhZGFwdGVyCgogICAgICAgIHNlYXJjaC5hZGRUZXh0Q2hhbmdlZExpc3RlbmVyKG9iamVjdCA6IFRleHRXYXRjaGVyIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGJlZm9yZVRleHRDaGFuZ2VkKHM6IENoYXJTZXF1ZW5jZT8sIGE6IEludCwgYjogSW50LCBjOiBJbnQpIHt9CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvblRleHRDaGFuZ2VkKHM6IENoYXJTZXF1ZW5jZT8sIGE6IEludCwgYjogSW50LCBjOiBJbnQpIHsgYXBwbHlGaWx0ZXIoKSB9CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBhZnRlclRleHRDaGFuZ2VkKHM6IEVkaXRhYmxlPykge30KICAgICAgICB9KQoKICAgICAgICBmaWx0ZXJDaGlwLnNldE9uQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgICAgIGNhdGVnb3J5RmlsdGVyID0gbnVsbAogICAgICAgICAgICBmaWx0ZXJDaGlwLnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcuYWxsX2NhdGVnb3JpZXMpCiAgICAgICAgICAgIGFwcGx5RmlsdGVyKCkKICAgICAgICB9CgogICAgICAgIHZpZXcuZmluZFZpZXdCeUlkPEZsb2F0aW5nQWN0aW9uQnV0dG9uPihSLmlkLmZhYl9hZGQpLnNldE9uQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgICAgIChhY3Rpdml0eSBhcz8gTWFpbkFjdGl2aXR5KT8ub3BlbkVkaXRvcigtMUwpCiAgICAgICAgfQoKICAgICAgICB2aWV3LmZpbmRWaWV3QnlJZDxFeHRlbmRlZEZsb2F0aW5nQWN0aW9uQnV0dG9uPihSLmlkLmZhYl9yYW5kb20pLnNldE9uQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgICAgIGFza1BhaW1vbigpCiAgICAgICAgfQoKICAgICAgICB2aWV3LmZpbmRWaWV3QnlJZDxUZXh0Vmlldz4oUi5pZC5jaGlwX2NhdGVnb3J5X3BpY2tlcikuc2V0T25DbGlja0xpc3RlbmVyIHsgc2hvd0NhdGVnb3J5UGlja2VyKCkgfQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICAgICAgcmVmcmVzaCgpCiAgICB9CgogICAgZnVuIHJlZnJlc2goKSB7CiAgICAgICAgaWYgKCE6OnJlY3ljbGVyLmlzSW5pdGlhbGl6ZWQpIHJldHVybgogICAgICAgIGFsbCA9IERpYXJ5U3RvcmUubG9hZChyZXF1aXJlQ29udGV4dCgpKQogICAgICAgIGFwcGx5RmlsdGVyKCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBhcHBseUZpbHRlcigpIHsKICAgICAgICB2YWwga2V5d29yZCA9IGlmICg6OnNlYXJjaC5pc0luaXRpYWxpemVkKSBzZWFyY2gudGV4dC50b1N0cmluZygpLnRyaW0oKS5sb3dlcmNhc2UoKSBlbHNlICIiCiAgICAgICAgdmFsIGZpbHRlcmVkID0gYWxsLmZpbHRlciB7IGVudHJ5IC0+CiAgICAgICAgICAgIHZhbCBva0NhdCA9IGNhdGVnb3J5RmlsdGVyID09IG51bGwgfHwgZW50cnkuY2F0ZWdvcnkgPT0gY2F0ZWdvcnlGaWx0ZXIKICAgICAgICAgICAgdmFsIG9rS2V5ID0ga2V5d29yZC5pc0VtcHR5KCkgfHwKICAgICAgICAgICAgICAgIGVudHJ5Lm5hbWUubG93ZXJjYXNlKCkuY29udGFpbnMoa2V5d29yZCkgfHwKICAgICAgICAgICAgICAgIGVudHJ5Lm5vdGUubG93ZXJjYXNlKCkuY29udGFpbnMoa2V5d29yZCkgfHwKICAgICAgICAgICAgICAgIGVudHJ5LmNhdGVnb3J5Lmxvd2VyY2FzZSgpLmNvbnRhaW5zKGtleXdvcmQpCiAgICAgICAgICAgIG9rQ2F0ICYmIG9rS2V5CiAgICAgICAgfQogICAgICAgIGFkYXB0ZXI/LnN1Ym1pdChmaWx0ZXJlZCkKICAgICAgICBjb3VudFZpZXcudGV4dCA9IGdldFN0cmluZyhSLnN0cmluZy5jb3VudF9mb3JtYXQsIGZpbHRlcmVkLnNpemUsIGFsbC5zaXplKQogICAgICAgIGVtcHR5Vmlldy52aXNpYmlsaXR5ID0gaWYgKGZpbHRlcmVkLmlzRW1wdHkoKSkgVmlldy5WSVNJQkxFIGVsc2UgVmlldy5HT05FCiAgICAgICAgZW1wdHlWaWV3LnNldFRleHQoaWYgKGFsbC5pc0VtcHR5KCkpIFIuc3RyaW5nLmVtcHR5X25vX2RhdGEgZWxzZSBSLnN0cmluZy5lbXB0eV9ub19tYXRjaCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBzaG93Q2F0ZWdvcnlQaWNrZXIoKSB7CiAgICAgICAgdmFsIG5hbWVzID0gKGxpc3RPZihnZXRTdHJpbmcoUi5zdHJpbmcuYWxsX2NhdGVnb3JpZXMpKSArIENhdGVnb3JpZXMuQUxMKS50b1R5cGVkQXJyYXkoKQogICAgICAgIE1hdGVyaWFsQWxlcnREaWFsb2dCdWlsZGVyKHJlcXVpcmVDb250ZXh0KCkpCiAgICAgICAgICAgIC5zZXRUaXRsZShSLnN0cmluZy5waWNrX2NhdGVnb3J5KQogICAgICAgICAgICAuc2V0SXRlbXMobmFtZXMpIHsgZGlhbG9nLCB3aGljaCAtPgogICAgICAgICAgICAgICAgaWYgKHdoaWNoID09IDApIHsKICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeUZpbHRlciA9IG51bGwKICAgICAgICAgICAgICAgICAgICBmaWx0ZXJDaGlwLnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcuYWxsX2NhdGVnb3JpZXMpCiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGNhdGVnb3J5RmlsdGVyID0gQ2F0ZWdvcmllcy5BTExbd2hpY2ggLSAxXQogICAgICAgICAgICAgICAgICAgIGZpbHRlckNoaXAudGV4dCA9IGdldFN0cmluZyhSLnN0cmluZy5maWx0ZXJfZm9ybWF0LCBDYXRlZ29yaWVzLkFMTFt3aGljaCAtIDFdKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYXBwbHlGaWx0ZXIoKQogICAgICAgICAgICAgICAgZGlhbG9nLmRpc21pc3MoKQogICAgICAgICAgICB9CiAgICAgICAgICAgIC5zaG93KCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBvcGVuRW50cnkoZW50cnk6IEZvb2RFbnRyeSkgewogICAgICAgIChhY3Rpdml0eSBhcz8gTWFpbkFjdGl2aXR5KT8ub3BlbkVkaXRvcihlbnRyeS5pZCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biB0b2dnbGVGYXZvcml0ZShlbnRyeTogRm9vZEVudHJ5KSB7CiAgICAgICAgZW50cnkuZmF2b3JpdGUgPSAhZW50cnkuZmF2b3JpdGUKICAgICAgICBEaWFyeVN0b3JlLnVwc2VydChyZXF1aXJlQ29udGV4dCgpLCBlbnRyeSkKICAgICAgICByZWZyZXNoKCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBhc2tEZWxldGUoZW50cnk6IEZvb2RFbnRyeSkgewogICAgICAgIE1hdGVyaWFsQWxlcnREaWFsb2dCdWlsZGVyKHJlcXVpcmVDb250ZXh0KCkpCiAgICAgICAgICAgIC5zZXRUaXRsZShSLnN0cmluZy5kZWxldGVfdGl0bGUpCiAgICAgICAgICAgIC5zZXRNZXNzYWdlKGdldFN0cmluZyhSLnN0cmluZy5kZWxldGVfbWVzc2FnZSwgZW50cnkubmFtZSkpCiAgICAgICAgICAgIC5zZXROZWdhdGl2ZUJ1dHRvbihSLnN0cmluZy5jYW5jZWwsIG51bGwpCiAgICAgICAgICAgIC5zZXRQb3NpdGl2ZUJ1dHRvbihSLnN0cmluZy5kZWxldGUpIHsgXywgXyAtPgogICAgICAgICAgICAgICAgRGlhcnlTdG9yZS5kZWxldGUocmVxdWlyZUNvbnRleHQoKSwgZW50cnkuaWQpCiAgICAgICAgICAgICAgICByZWZyZXNoKCkKICAgICAgICAgICAgfQogICAgICAgICAgICAuc2hvdygpCiAgICB9CgogICAgLyoqIOa0vuiSmeaOqOiNkO+8muS7iuWkqeWQg+S7gOS5iO+8jOS6pOe7meWRvei/kO+8gSAqLwogICAgcHJpdmF0ZSBmdW4gYXNrUGFpbW9uKCkgewogICAgICAgIHZhbCBwb29sID0gYWxsLmlmRW1wdHkgewogICAgICAgICAgICBEaWFyeVN0b3JlLnByZXNldHMoKS5tYXAgewogICAgICAgICAgICAgICAgRm9vZEVudHJ5KDAsIGl0LmZpcnN0LCBpdC5zZWNvbmQsIDUsIGl0LnRoaXJkLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICB2YWwgcGljayA9IHBvb2xbUmFuZG9tLm5leHRJbnQocG9vbC5zaXplKV0KICAgICAgICBNYXRlcmlhbEFsZXJ0RGlhbG9nQnVpbGRlcihyZXF1aXJlQ29udGV4dCgpKQogICAgICAgICAgICAuc2V0VGl0bGUoUi5zdHJpbmcucGFpbW9uX3BpY2tfdGl0bGUpCiAgICAgICAgICAgIC5zZXRNZXNzYWdlKAogICAgICAgICAgICAgICAgQ2F0ZWdvcmllcy5lbW9qaShwaWNrLmNhdGVnb3J5KSArICIgICIgKyBwaWNrLm5hbWUgKyAiXG5cbiIgKwogICAgICAgICAgICAgICAgICAgIHBpY2subm90ZS5pZkJsYW5rIHsgZ2V0U3RyaW5nKFIuc3RyaW5nLnBhaW1vbl9waWNrX2hpbnQpIH0KICAgICAgICAgICAgKQogICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oUi5zdHJpbmcuY2FuY2VsLCBudWxsKQogICAgICAgICAgICAuc2V0UG9zaXRpdmVCdXR0b24oUi5zdHJpbmcucGFpbW9uX3BpY2tfc2F2ZSkgeyBfLCBfIC0+CiAgICAgICAgICAgICAgICBEaWFyeVN0b3JlLnVwc2VydCgKICAgICAgICAgICAgICAgICAgICByZXF1aXJlQ29udGV4dCgpLAogICAgICAgICAgICAgICAgICAgIEZvb2RFbnRyeSgKICAgICAgICAgICAgICAgICAgICAgICAgaWQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmFtZSA9IHBpY2submFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgY2F0ZWdvcnkgPSBwaWNrLmNhdGVnb3J5LAogICAgICAgICAgICAgICAgICAgICAgICByYXRpbmcgPSBwaWNrLnJhdGluZywKICAgICAgICAgICAgICAgICAgICAgICAgbm90ZSA9IHBpY2subm90ZSwKICAgICAgICAgICAgICAgICAgICAgICAgdGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgcmVmcmVzaCgpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgLnNob3coKQogICAgfQp9Cg==
+package com.paimon.fooddiary
+
+import android.os.Bundle
+import android.text.Editable
+import android.text.TextWatcher
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.EditText
+import android.widget.TextView
+import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
+import com.google.android.material.dialog.MaterialAlertDialogBuilder
+import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+import com.google.android.material.floatingactionbutton.FloatingActionButton
+import kotlin.random.Random
+
+class DiaryFragment : Fragment() {
+
+    private lateinit var recycler: RecyclerView
+    private lateinit var search: EditText
+    private lateinit var emptyView: TextView
+    private lateinit var countView: TextView
+    private lateinit var filterChip: TextView
+    private var adapter: EntryAdapter? = null
+    private var all: List<FoodEntry> = emptyList()
+    private var categoryFilter: String? = null
+
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, saved: Bundle?): View =
+        inflater.inflate(R.layout.fragment_diary, container, false)
+
+    override fun onViewCreated(view: View, saved: Bundle?) {
+        recycler = view.findViewById(R.id.recycler)
+        search = view.findViewById(R.id.search_box)
+        emptyView = view.findViewById(R.id.empty_view)
+        countView = view.findViewById(R.id.count_view)
+        filterChip = view.findViewById(R.id.filter_chip)
+        recycler.layoutManager = LinearLayoutManager(requireContext())
+
+        adapter = EntryAdapter(emptyList(), ::openEntry, ::toggleFavorite, ::askDelete)
+        recycler.adapter = adapter
+
+        search.addTextChangedListener(object : TextWatcher {
+            override fun beforeTextChanged(s: CharSequence?, a: Int, b: Int, c: Int) {}
+            override fun onTextChanged(s: CharSequence?, a: Int, b: Int, c: Int) { applyFilter() }
+            override fun afterTextChanged(s: Editable?) {}
+        })
+
+        filterChip.setOnClickListener {
+            categoryFilter = null
+            filterChip.text = getString(R.string.all_categories)
+            applyFilter()
+        }
+
+        view.findViewById<FloatingActionButton>(R.id.fab_add).setOnClickListener {
+            (activity as? MainActivity)?.openEditor(-1L)
+        }
+
+        view.findViewById<ExtendedFloatingActionButton>(R.id.fab_random).setOnClickListener {
+            askPaimon()
+        }
+
+        view.findViewById<TextView>(R.id.chip_category_picker).setOnClickListener { showCategoryPicker() }
+    }
+
+    override fun onResume() {
+        super.onResume()
+        refresh()
+    }
+
+    fun refresh() {
+        if (!::recycler.isInitialized) return
+        all = DiaryStore.load(requireContext())
+        applyFilter()
+    }
+
+    private fun applyFilter() {
+        val keyword = if (::search.isInitialized) search.text.toString().trim().lowercase() else ""
+        val filtered = all.filter { entry ->
+            val okCat = categoryFilter == null || entry.category == categoryFilter
+            val okKey = keyword.isEmpty() ||
+                entry.name.lowercase().contains(keyword) ||
+                entry.note.lowercase().contains(keyword) ||
+                entry.category.lowercase().contains(keyword)
+            okCat && okKey
+        }
+        adapter?.submit(filtered)
+        countView.text = getString(R.string.count_format, filtered.size, all.size)
+        emptyView.visibility = if (filtered.isEmpty()) View.VISIBLE else View.GONE
+        emptyView.setText(if (all.isEmpty()) R.string.empty_no_data else R.string.empty_no_match)
+    }
+
+    private fun showCategoryPicker() {
+        val names = (listOf(getString(R.string.all_categories)) + Categories.ALL).toTypedArray()
+        MaterialAlertDialogBuilder(requireContext())
+            .setTitle(R.string.pick_category)
+            .setItems(names) { dialog, which ->
+                if (which == 0) {
+                    categoryFilter = null
+                    filterChip.text = getString(R.string.all_categories)
+                } else {
+                    categoryFilter = Categories.ALL[which - 1]
+                    filterChip.text = getString(R.string.filter_format, Categories.ALL[which - 1])
+                }
+                applyFilter()
+                dialog.dismiss()
+            }
+            .show()
+    }
+
+    private fun openEntry(entry: FoodEntry) {
+        (activity as? MainActivity)?.openEditor(entry.id)
+    }
+
+    private fun toggleFavorite(entry: FoodEntry) {
+        entry.favorite = !entry.favorite
+        DiaryStore.upsert(requireContext(), entry)
+        refresh()
+    }
+
+    private fun askDelete(entry: FoodEntry) {
+        MaterialAlertDialogBuilder(requireContext())
+            .setTitle(R.string.delete_title)
+            .setMessage(getString(R.string.delete_message, entry.name))
+            .setNegativeButton(R.string.cancel, null)
+            .setPositiveButton(R.string.delete) { _, _ ->
+                DiaryStore.delete(requireContext(), entry.id)
+                refresh()
+            }
+            .show()
+    }
+
+    /** 派蒙推荐：今天吃什么，交给命运！ */
+    private fun askPaimon() {
+        val pool = all.ifEmpty {
+            DiaryStore.presets().map {
+                FoodEntry(0, it.first, it.second, 5, it.third, System.currentTimeMillis())
+            }
+        }
+        val pick = pool[Random.nextInt(pool.size)]
+        MaterialAlertDialogBuilder(requireContext())
+            .setTitle(R.string.paimon_pick_title)
+            .setMessage(
+                Categories.emoji(pick.category) + "  " + pick.name + "\n\n" +
+                    pick.note.ifBlank { getString(R.string.paimon_pick_hint) }
+            )
+            .setNegativeButton(R.string.cancel, null)
+            .setPositiveButton(R.string.paimon_pick_save) { _, _ ->
+                DiaryStore.upsert(
+                    requireContext(),
+                    FoodEntry(
+                        id = System.currentTimeMillis(),
+                        name = pick.name,
+                        category = pick.category,
+                        rating = pick.rating,
+                        note = pick.note,
+                        time = System.currentTimeMillis()
+                    )
+                )
+                refresh()
+            }
+            .show()
+    }
+}

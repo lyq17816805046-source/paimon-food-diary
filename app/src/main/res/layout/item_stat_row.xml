@@ -1,1 +1,33 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIgogICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjEwZHAiPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcm93X2xhYmVsIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI4NmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvdGV4dF9tYWluIgogICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjEzc3AiIC8+CgogICAgPFByb2dyZXNzQmFyCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yb3dfYmFyIgogICAgICAgIHN0eWxlPSI/YW5kcm9pZDphdHRyL3Byb2dyZXNzQmFyU3R5bGVIb3Jpem9udGFsIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIxMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iNmRwIgogICAgICAgIGFuZHJvaWQ6cHJvZ3Jlc3NUaW50PSJAY29sb3IvcGFpbW9uX2N5YW4iIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yb3dfdmFsdWUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjM0ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJlbmQiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci90ZXh0X2RpbSIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxM3NwIiAvPgo8L0xpbmVhckxheW91dD4K
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layout_marginTop="10dp">
+
+    <TextView
+        android:id="@+id/row_label"
+        android:layout_width="86dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_main"
+        android:textSize="13sp" />
+
+    <ProgressBar
+        android:id="@+id/row_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="0dp"
+        android:layout_height="10dp"
+        android:layout_weight="1"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="6dp"
+        android:progressTint="@color/paimon_cyan" />
+
+    <TextView
+        android:id="@+id/row_value"
+        android:layout_width="34dp"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:textColor="@color/text_dim"
+        android:textSize="13sp" />
+</LinearLayout>

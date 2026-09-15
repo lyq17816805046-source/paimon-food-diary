@@ -1,1 +1,61 @@
-cGFja2FnZSBjb20ucGFpbW9uLmZvb2RkaWFyeQoKaW1wb3J0IGFuZHJvaWQudmlldy5MYXlvdXRJbmZsYXRlcgppbXBvcnQgYW5kcm9pZC52aWV3LlZpZXcKaW1wb3J0IGFuZHJvaWQudmlldy5WaWV3R3JvdXAKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkltYWdlQnV0dG9uCmltcG9ydCBhbmRyb2lkLndpZGdldC5UZXh0VmlldwppbXBvcnQgYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXcKaW1wb3J0IGphdmEudGV4dC5TaW1wbGVEYXRlRm9ybWF0CmltcG9ydCBqYXZhLnV0aWwuRGF0ZQppbXBvcnQgamF2YS51dGlsLkxvY2FsZQoKY2xhc3MgRW50cnlBZGFwdGVyKAogICAgcHJpdmF0ZSB2YXIgaXRlbXM6IExpc3Q8Rm9vZEVudHJ5PiwKICAgIHByaXZhdGUgdmFsIG9uQ2xpY2s6IChGb29kRW50cnkpIC0+IFVuaXQsCiAgICBwcml2YXRlIHZhbCBvbkZhdm9yaXRlOiAoRm9vZEVudHJ5KSAtPiBVbml0LAogICAgcHJpdmF0ZSB2YWwgb25EZWxldGU6IChGb29kRW50cnkpIC0+IFVuaXQKKSA6IFJlY3ljbGVyVmlldy5BZGFwdGVyPEVudHJ5QWRhcHRlci5WSD4oKSB7CgogICAgcHJpdmF0ZSB2YWwgZm10ID0gU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCBISDptbSIsIExvY2FsZS5DSElOQSkKCiAgICBjbGFzcyBWSCh2aWV3OiBWaWV3KSA6IFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyKHZpZXcpIHsKICAgICAgICB2YWwgaWNvbjogVGV4dFZpZXcgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmVudHJ5X2ljb24pCiAgICAgICAgdmFsIG5hbWU6IFRleHRWaWV3ID0gdmlldy5maW5kVmlld0J5SWQoUi5pZC5lbnRyeV9uYW1lKQogICAgICAgIHZhbCBjYXRlZ29yeTogVGV4dFZpZXcgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmVudHJ5X2NhdGVnb3J5KQogICAgICAgIHZhbCBzdGFyczogVGV4dFZpZXcgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmVudHJ5X3N0YXJzKQogICAgICAgIHZhbCBub3RlOiBUZXh0VmlldyA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZW50cnlfbm90ZSkKICAgICAgICB2YWwgZGF0ZTogVGV4dFZpZXcgPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmVudHJ5X2RhdGUpCiAgICAgICAgdmFsIGZhdjogSW1hZ2VCdXR0b24gPSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmVudHJ5X2ZhdikKICAgICAgICB2YWwgZGVsOiBJbWFnZUJ1dHRvbiA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZW50cnlfZGVsKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZVZpZXdIb2xkZXIocGFyZW50OiBWaWV3R3JvdXAsIHZpZXdUeXBlOiBJbnQpOiBWSCB7CiAgICAgICAgdmFsIHYgPSBMYXlvdXRJbmZsYXRlci5mcm9tKHBhcmVudC5jb250ZXh0KS5pbmZsYXRlKFIubGF5b3V0Lml0ZW1fZW50cnksIHBhcmVudCwgZmFsc2UpCiAgICAgICAgcmV0dXJuIFZIKHYpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uQmluZFZpZXdIb2xkZXIoaG9sZGVyOiBWSCwgcG9zaXRpb246IEludCkgewogICAgICAgIHZhbCBpdGVtID0gaXRlbXNbcG9zaXRpb25dCiAgICAgICAgaG9sZGVyLmljb24udGV4dCA9IENhdGVnb3JpZXMuZW1vamkoaXRlbS5jYXRlZ29yeSkKICAgICAgICBob2xkZXIubmFtZS50ZXh0ID0gaXRlbS5uYW1lCiAgICAgICAgaG9sZGVyLmNhdGVnb3J5LnRleHQgPSBpdGVtLmNhdGVnb3J5CiAgICAgICAgaG9sZGVyLnN0YXJzLnRleHQgPSBzdGFycyhpdGVtLnJhdGluZykKICAgICAgICBob2xkZXIubm90ZS50ZXh0ID0gaXRlbS5ub3RlLmlmQmxhbmsgeyBob2xkZXIuaXRlbVZpZXcuY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcubm9fbm90ZSkgfQogICAgICAgIGhvbGRlci5kYXRlLnRleHQgPSBmbXQuZm9ybWF0KERhdGUoaXRlbS50aW1lKSkKICAgICAgICBob2xkZXIuZmF2LnNldEltYWdlUmVzb3VyY2UoaWYgKGl0ZW0uZmF2b3JpdGUpIFIuZHJhd2FibGUuaWNfc3Rhcl9maWxsZWQgZWxzZSBSLmRyYXdhYmxlLmljX3N0YXJfb3V0bGluZSkKICAgICAgICBob2xkZXIuZmF2LmNvbnRlbnREZXNjcmlwdGlvbiA9IGhvbGRlci5pdGVtVmlldy5jb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5mYXZvcml0ZSkKICAgICAgICBob2xkZXIuaXRlbVZpZXcuc2V0T25DbGlja0xpc3RlbmVyIHsgb25DbGljayhpdGVtKSB9CiAgICAgICAgaG9sZGVyLmZhdi5zZXRPbkNsaWNrTGlzdGVuZXIgeyBvbkZhdm9yaXRlKGl0ZW0pIH0KICAgICAgICBob2xkZXIuZGVsLnNldE9uQ2xpY2tMaXN0ZW5lciB7IG9uRGVsZXRlKGl0ZW0pIH0KICAgIH0KCiAgICBvdmVycmlkZSBmdW4gZ2V0SXRlbUNvdW50KCk6IEludCA9IGl0ZW1zLnNpemUKCiAgICBmdW4gc3VibWl0KG5ld0l0ZW1zOiBMaXN0PEZvb2RFbnRyeT4pIHsKICAgICAgICBpdGVtcyA9IG5ld0l0ZW1zCiAgICAgICAgbm90aWZ5RGF0YVNldENoYW5nZWQoKQogICAgfQoKICAgIHByaXZhdGUgZnVuIHN0YXJzKHJhdGluZzogSW50KTogU3RyaW5nID0gIuKYhSIucmVwZWF0KHJhdGluZy5jb2VyY2VJbigwLCA1KSkgKyAi4piGIi5yZXBlYXQoKDUgLSByYXRpbmcpLmNvZXJjZUluKDAsIDUpKQp9Cg==
+package com.paimon.fooddiary
+
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.ImageButton
+import android.widget.TextView
+import androidx.recyclerview.widget.RecyclerView
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
+
+class EntryAdapter(
+    private var items: List<FoodEntry>,
+    private val onClick: (FoodEntry) -> Unit,
+    private val onFavorite: (FoodEntry) -> Unit,
+    private val onDelete: (FoodEntry) -> Unit
+) : RecyclerView.Adapter<EntryAdapter.VH>() {
+
+    private val fmt = SimpleDateFormat("yyyy-MM-dd HH:mm", Locale.CHINA)
+
+    class VH(view: View) : RecyclerView.ViewHolder(view) {
+        val icon: TextView = view.findViewById(R.id.entry_icon)
+        val name: TextView = view.findViewById(R.id.entry_name)
+        val category: TextView = view.findViewById(R.id.entry_category)
+        val stars: TextView = view.findViewById(R.id.entry_stars)
+        val note: TextView = view.findViewById(R.id.entry_note)
+        val date: TextView = view.findViewById(R.id.entry_date)
+        val fav: ImageButton = view.findViewById(R.id.entry_fav)
+        val del: ImageButton = view.findViewById(R.id.entry_del)
+    }
+
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): VH {
+        val v = LayoutInflater.from(parent.context).inflate(R.layout.item_entry, parent, false)
+        return VH(v)
+    }
+
+    override fun onBindViewHolder(holder: VH, position: Int) {
+        val item = items[position]
+        holder.icon.text = Categories.emoji(item.category)
+        holder.name.text = item.name
+        holder.category.text = item.category
+        holder.stars.text = stars(item.rating)
+        holder.note.text = item.note.ifBlank { holder.itemView.context.getString(R.string.no_note) }
+        holder.date.text = fmt.format(Date(item.time))
+        holder.fav.setImageResource(if (item.favorite) R.drawable.ic_star_filled else R.drawable.ic_star_outline)
+        holder.fav.contentDescription = holder.itemView.context.getString(R.string.favorite)
+        holder.itemView.setOnClickListener { onClick(item) }
+        holder.fav.setOnClickListener { onFavorite(item) }
+        holder.del.setOnClickListener { onDelete(item) }
+    }
+
+    override fun getItemCount(): Int = items.size
+
+    fun submit(newItems: List<FoodEntry>) {
+        items = newItems
+        notifyDataSetChanged()
+    }
+
+    private fun stars(rating: Int): String = "★".repeat(rating.coerceIn(0, 5)) + "☆".repeat((5 - rating).coerceIn(0, 5))
+}

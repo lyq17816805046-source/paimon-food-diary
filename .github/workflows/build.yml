@@ -1,1 +1,72 @@
-bmFtZTogQnVpbGQgQW5kcm9pZCBBUEsKCm9uOgogIHB1c2g6CiAgICBicmFuY2hlczogWyBtYWluIF0KICB3b3JrZmxvd19kaXNwYXRjaDoKCmpvYnM6CiAgYnVpbGQ6CiAgICBydW5zLW9uOiB1YnVudHUtbGF0ZXN0CiAgICBwZXJtaXNzaW9uczoKICAgICAgY29udGVudHM6IHJlYWQKICAgIHN0ZXBzOgogICAgICAtIG5hbWU6IENoZWNrb3V0CiAgICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2NAoKICAgICAgLSBuYW1lOiBTZXQgdXAgSkRLIDE3CiAgICAgICAgdXNlczogYWN0aW9ucy9zZXR1cC1qYXZhQHY0CiAgICAgICAgd2l0aDoKICAgICAgICAgIGRpc3RyaWJ1dGlvbjogdGVtdXJpbgogICAgICAgICAgamF2YS12ZXJzaW9uOiAnMTcnCgogICAgICAtIG5hbWU6IFNldCB1cCBBbmRyb2lkIFNESwogICAgICAgIHVzZXM6IGFuZHJvaWQtYWN0aW9ucy9zZXR1cC1hbmRyb2lkQHYzCiAgICAgICAgd2l0aDoKICAgICAgICAgIHBhY2thZ2VzOiAncGxhdGZvcm0tdG9vbHMgcGxhdGZvcm1zO2FuZHJvaWQtMzQgYnVpbGQtdG9vbHM7MzQuMC4wJwogICAgICAgICAgbG9nLWFjY2VwdGVkLWFuZHJvaWQtc2RrLWxpY2Vuc2VzOiAnZmFsc2UnCgogICAgICAtIG5hbWU6IFNldCB1cCBHcmFkbGUKICAgICAgICB1c2VzOiBncmFkbGUvYWN0aW9ucy9zZXR1cC1ncmFkbGVAdjMKICAgICAgICB3aXRoOgogICAgICAgICAgZ3JhZGxlLXZlcnNpb246ICc4LjcnCiAgICAgICAgICBjYWNoZS1yZWFkLW9ubHk6IGZhbHNlCgogICAgICAtIG5hbWU6IEFzc2VtYmxlIGRlYnVnIEFQSwogICAgICAgIHJ1bjogZ3JhZGxlIC0tbm8tZGFlbW9uIGFzc2VtYmxlRGVidWcKCiAgICAgIC0gbmFtZTogU2lnbiByZWxlYXNlIGJ1aWxkIChDSS1nZW5lcmF0ZWQgdGVzdCBrZXlzdG9yZSkKICAgICAgICBpZDogcmVsZWFzZQogICAgICAgIGNvbnRpbnVlLW9uLWVycm9yOiB0cnVlCiAgICAgICAgZW52OgogICAgICAgICAgS1NfUEFTUzogcGFpbW9uZm9vZGRpYXJ5CiAgICAgICAgcnVuOiB8CiAgICAgICAgICBrZXl0b29sIC1nZW5rZXlwYWlyIC12IC1rZXlzdG9yZSByZWxlYXNlLmtleXN0b3JlIFwKICAgICAgICAgICAgLWFsaWFzIHBhaW1vbiAta2V5YWxnIFJTQSAta2V5c2l6ZSAyMDQ4IC12YWxpZGl0eSAxMDAwMCBcCiAgICAgICAgICAgIC1zdG9yZXBhc3MgIiRLU19QQVNTIiAta2V5cGFzcyAiJEtTX1BBU1MiIFwKICAgICAgICAgICAgLWRuYW1lICJDTj1QYWltb24gRm9vZCBEaWFyeSwgT1U9VGV5dmF0LCBPPVBhaW1vbiwgTD1Nb25kc3RhZHQsIFM9TW9uZHN0YWR0LCBDPUVJIgogICAgICAgICAgZ3JhZGxlIC0tbm8tZGFlbW9uIGFzc2VtYmxlUmVsZWFzZSBcCiAgICAgICAgICAgIC1QcmVsZWFzZUtleXN0b3JlPSIkR0lUSFVCX1dPUktTUEFDRS9yZWxlYXNlLmtleXN0b3JlIiBcCiAgICAgICAgICAgIC1QcmVsZWFzZUtleXN0b3JlUGFzc3dvcmQ9IiRLU19QQVNTIiBcCiAgICAgICAgICAgIC1QcmVsZWFzZUtleUFsaWFzPXBhaW1vbiBcCiAgICAgICAgICAgIC1QcmVsZWFzZUtleVBhc3N3b3JkPSIkS1NfUEFTUyIKCiAgICAgIC0gbmFtZTogVXBsb2FkIGRlYnVnIEFQSwogICAgICAgIHVzZXM6IGFjdGlvbnMvdXBsb2FkLWFydGlmYWN0QHY0CiAgICAgICAgd2l0aDoKICAgICAgICAgIG5hbWU6IFBhaW1vbkZvb2REaWFyeS1kZWJ1ZwogICAgICAgICAgcGF0aDogYXBwL2J1aWxkL291dHB1dHMvYXBrL2RlYnVnL2FwcC1kZWJ1Zy5hcGsKICAgICAgICAgIGlmLW5vLWZpbGVzLWZvdW5kOiBlcnJvcgoKICAgICAgLSBuYW1lOiBVcGxvYWQgcmVsZWFzZSBBUEsKICAgICAgICBpZjogJHt7IHN0ZXBzLnJlbGVhc2Uub3V0Y29tZSA9PSAnc3VjY2VzcycgfX0KICAgICAgICB1c2VzOiBhY3Rpb25zL3VwbG9hZC1hcnRpZmFjdEB2NAogICAgICAgIHdpdGg6CiAgICAgICAgICBuYW1lOiBQYWltb25Gb29kRGlhcnktcmVsZWFzZQogICAgICAgICAgcGF0aDogYXBwL2J1aWxkL291dHB1dHMvYXBrL3JlbGVhc2UvYXBwLXJlbGVhc2UuYXBrCiAgICAgICAgICBpZi1uby1maWxlcy1mb3VuZDogaWdub3JlCgogICAgICAtIG5hbWU6IFN1bW1hcnkKICAgICAgICBydW46IHwKICAgICAgICAgIGVjaG8gIiMjIOa0vuiSmeeahOe8luivkeaKpeWRiiIgPj4gIiRHSVRIVUJfU1RFUF9TVU1NQVJZIgogICAgICAgICAgZmluZCBhcHAvYnVpbGQvb3V0cHV0cy9hcGsgLW5hbWUgIiouYXBrIiAtcHJpbnRmICctICVwICglcyBieXRlcylcbicgPj4gIiRHSVRIVUJfU1RFUF9TVU1NQVJZIiB8fCB0cnVlCg==
+name: Build Android APK
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+        with:
+          packages: 'platform-tools platforms;android-34 build-tools;34.0.0'
+          log-accepted-android-sdk-licenses: 'false'
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v3
+        with:
+          gradle-version: '8.7'
+          cache-read-only: false
+
+      - name: Assemble debug APK
+        run: gradle --no-daemon assembleDebug
+
+      - name: Sign release build (CI-generated test keystore)
+        id: release
+        continue-on-error: true
+        env:
+          KS_PASS: paimonfooddiary
+        run: |
+          keytool -genkeypair -v -keystore release.keystore \
+            -alias paimon -keyalg RSA -keysize 2048 -validity 10000 \
+            -storepass "$KS_PASS" -keypass "$KS_PASS" \
+            -dname "CN=Paimon Food Diary, OU=Teyvat, O=Paimon, L=Mondstadt, S=Mondstadt, C=EI"
+          gradle --no-daemon assembleRelease \
+            -PreleaseKeystore="$GITHUB_WORKSPACE/release.keystore" \
+            -PreleaseKeystorePassword="$KS_PASS" \
+            -PreleaseKeyAlias=paimon \
+            -PreleaseKeyPassword="$KS_PASS"
+
+      - name: Upload debug APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: PaimonFoodDiary-debug
+          path: app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
+
+      - name: Upload release APK
+        if: ${{ steps.release.outcome == 'success' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: PaimonFoodDiary-release
+          path: app/build/outputs/apk/release/app-release.apk
+          if-no-files-found: ignore
+
+      - name: Summary
+        run: |
+          echo "## 派蒙的编译报告" >> "$GITHUB_STEP_SUMMARY"
+          find app/build/outputs/apk -name "*.apk" -printf '- %p (%s bytes)\n' >> "$GITHUB_STEP_SUMMARY" || true

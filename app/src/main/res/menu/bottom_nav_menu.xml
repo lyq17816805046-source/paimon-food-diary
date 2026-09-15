@@ -1,1 +1,11 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPG1lbnUgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KICAgIDxpdGVtCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9uYXZfZGlhcnkiCiAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvaWNfYm9vayIKICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL3RhYl9kaWFyeSIgLz4KICAgIDxpdGVtCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9uYXZfc3RhdHMiCiAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvaWNfY2hhcnQiCiAgICAgICAgYW5kcm9pZDp0aXRsZT0iQHN0cmluZy90YWJfc3RhdHMiIC8+CjwvbWVudT4K
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_diary"
+        android:icon="@drawable/ic_book"
+        android:title="@string/tab_diary" />
+    <item
+        android:id="@+id/nav_stats"
+        android:icon="@drawable/ic_chart"
+        android:title="@string/tab_stats" />
+</menu>

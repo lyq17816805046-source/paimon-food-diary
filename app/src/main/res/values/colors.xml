@@ -1,1 +1,16 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlcz4KICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I0ZGRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJwYWltb25fYmx1ZV9kZWVwIj4jRkYxQjJBNEE8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InBhaW1vbl9ibHVlIj4jRkYyRTRBN0Q8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InBhaW1vbl9nb2xkIj4jRkZGNUM5N0I8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InBhaW1vbl9jeWFuIj4jRkYzRkE5Qzc8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InBhaW1vbl9zaWx2ZXIiPiNGRkU4RjFGNTwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iYmciPiNGRkYzRjZGQTwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ic3VyZmFjZSI+I0ZGRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ0ZXh0X21haW4iPiNGRjFCMkE0QTwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0idGV4dF9kaW0iPiNGRjVCNkI4NTwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0idGV4dF9mYWludCI+I0ZGOUFBN0JDPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJkYW5nZXIiPiNGRkQ5NTM0RjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iaW5wdXRfc3Ryb2tlIj4jRkZDQkQ3RTg8L2NvbG9yPgo8L3Jlc291cmNlcz4K
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="paimon_blue_deep">#FF1B2A4A</color>
+    <color name="paimon_blue">#FF2E4A7D</color>
+    <color name="paimon_gold">#FFF5C97B</color>
+    <color name="paimon_cyan">#FF3FA9C7</color>
+    <color name="paimon_silver">#FFE8F1F5</color>
+    <color name="bg">#FFF3F6FA</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="text_main">#FF1B2A4A</color>
+    <color name="text_dim">#FF5B6B85</color>
+    <color name="text_faint">#FF9AA7BC</color>
+    <color name="danger">#FFD9534F</color>
+    <color name="input_stroke">#FFCBD7E8</color>
+</resources>

@@ -1,1 +1,9 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlcz4KICAgIDxzdHlsZSBuYW1lPSJUaGVtZS5QYWltb25EaWFyeSIgcGFyZW50PSJUaGVtZS5NYXRlcmlhbDMuRGF5TmlnaHQuTm9BY3Rpb25CYXIiPgogICAgICAgIDxpdGVtIG5hbWU9ImNvbG9yUHJpbWFyeSI+QGNvbG9yL3BhaW1vbl9nb2xkPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImNvbG9yUHJpbWFyeUNvbnRhaW5lciI+QGNvbG9yL3BhaW1vbl9ibHVlPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImNvbG9yU2Vjb25kYXJ5Ij5AY29sb3IvcGFpbW9uX2N5YW48L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDpzdGF0dXNCYXJDb2xvciI+QGNvbG9yL3BhaW1vbl9ibHVlX2RlZXA8L2l0ZW0+CiAgICA8L3N0eWxlPgo8L3Jlc291cmNlcz4K
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PaimonDiary" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/paimon_gold</item>
+        <item name="colorPrimaryContainer">@color/paimon_blue</item>
+        <item name="colorSecondary">@color/paimon_cyan</item>
+        <item name="android:statusBarColor">@color/paimon_blue_deep</item>
+    </style>
+</resources>

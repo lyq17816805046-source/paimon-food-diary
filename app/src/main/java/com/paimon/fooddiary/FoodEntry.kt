@@ -1,1 +1,58 @@
-cGFja2FnZSBjb20ucGFpbW9uLmZvb2RkaWFyeQoKaW1wb3J0IG9yZy5qc29uLkpTT05PYmplY3QKCi8qKiDkuIDmnaHnvo7po5/orrDlvZUgKi8KZGF0YSBjbGFzcyBGb29kRW50cnkoCiAgICB2YWwgaWQ6IExvbmcsCiAgICB2YXIgbmFtZTogU3RyaW5nLAogICAgdmFyIGNhdGVnb3J5OiBTdHJpbmcsCiAgICB2YXIgcmF0aW5nOiBJbnQsCiAgICB2YXIgbm90ZTogU3RyaW5nLAogICAgdmFyIHRpbWU6IExvbmcsCiAgICB2YXIgZmF2b3JpdGU6IEJvb2xlYW4gPSBmYWxzZQopIHsKICAgIGZ1biB0b0pzb24oKTogSlNPTk9iamVjdCA9IEpTT05PYmplY3QoKS5hcHBseSB7CiAgICAgICAgcHV0KCJpZCIsIGlkKQogICAgICAgIHB1dCgibmFtZSIsIG5hbWUpCiAgICAgICAgcHV0KCJjYXRlZ29yeSIsIGNhdGVnb3J5KQogICAgICAgIHB1dCgicmF0aW5nIiwgcmF0aW5nKQogICAgICAgIHB1dCgibm90ZSIsIG5vdGUpCiAgICAgICAgcHV0KCJ0aW1lIiwgdGltZSkKICAgICAgICBwdXQoImZhdm9yaXRlIiwgZmF2b3JpdGUpCiAgICB9CgogICAgY29tcGFuaW9uIG9iamVjdCB7CiAgICAgICAgZnVuIGZyb21Kc29uKG86IEpTT05PYmplY3QpOiBGb29kRW50cnkgPSBGb29kRW50cnkoCiAgICAgICAgICAgIGlkID0gby5vcHRMb25nKCJpZCIpLAogICAgICAgICAgICBuYW1lID0gby5vcHRTdHJpbmcoIm5hbWUiKSwKICAgICAgICAgICAgY2F0ZWdvcnkgPSBvLm9wdFN0cmluZygiY2F0ZWdvcnkiLCBDYXRlZ29yaWVzLk9USEVSKSwKICAgICAgICAgICAgcmF0aW5nID0gby5vcHRJbnQoInJhdGluZyIsIDMpLAogICAgICAgICAgICBub3RlID0gby5vcHRTdHJpbmcoIm5vdGUiKSwKICAgICAgICAgICAgdGltZSA9IG8ub3B0TG9uZygidGltZSIpLAogICAgICAgICAgICBmYXZvcml0ZSA9IG8ub3B0Qm9vbGVhbigiZmF2b3JpdGUiKQogICAgICAgICkKICAgIH0KfQoKb2JqZWN0IENhdGVnb3JpZXMgewogICAgY29uc3QgdmFsIE1BSU4gPSAi5Li76aOfIgogICAgY29uc3QgdmFsIFNOQUNLID0gIuWwj+WQgyIKICAgIGNvbnN0IHZhbCBTT1VQID0gIuaxpOe+uSIKICAgIGNvbnN0IHZhbCBTV0VFVCA9ICLnlJzlk4EiCiAgICBjb25zdCB2YWwgRFJJTksgPSAi6aWu5ZOBIgogICAgY29uc3QgdmFsIFJBUkUgPSAi5aWH54+NIgogICAgY29uc3QgdmFsIE9USEVSID0gIuWFtuS7liIKCiAgICB2YWwgQUxMID0gbGlzdE9mKE1BSU4sIFNOQUNLLCBTT1VQLCBTV0VFVCwgRFJJTkssIFJBUkUsIE9USEVSKQoKICAgIGZ1biBlbW9qaShjYXRlZ29yeTogU3RyaW5nKTogU3RyaW5nID0gd2hlbiAoY2F0ZWdvcnkpIHsKICAgICAgICBNQUlOIC0+ICLwn42XIgogICAgICAgIFNOQUNLIC0+ICLwn42iIgogICAgICAgIFNPVVAgLT4gIvCfjbIiCiAgICAgICAgU1dFRVQgLT4gIvCfjbAiCiAgICAgICAgRFJJTksgLT4gIvCfpaQiCiAgICAgICAgUkFSRSAtPiAi4pyoIgogICAgICAgIGVsc2UgLT4gIvCfjb3vuI8iCiAgICB9Cn0K
+package com.paimon.fooddiary
+
+import org.json.JSONObject
+
+/** 一条美食记录 */
+data class FoodEntry(
+    val id: Long,
+    var name: String,
+    var category: String,
+    var rating: Int,
+    var note: String,
+    var time: Long,
+    var favorite: Boolean = false
+) {
+    fun toJson(): JSONObject = JSONObject().apply {
+        put("id", id)
+        put("name", name)
+        put("category", category)
+        put("rating", rating)
+        put("note", note)
+        put("time", time)
+        put("favorite", favorite)
+    }
+
+    companion object {
+        fun fromJson(o: JSONObject): FoodEntry = FoodEntry(
+            id = o.optLong("id"),
+            name = o.optString("name"),
+            category = o.optString("category", Categories.OTHER),
+            rating = o.optInt("rating", 3),
+            note = o.optString("note"),
+            time = o.optLong("time"),
+            favorite = o.optBoolean("favorite")
+        )
+    }
+}
+
+object Categories {
+    const val MAIN = "主食"
+    const val SNACK = "小吃"
+    const val SOUP = "汤羹"
+    const val SWEET = "甜品"
+    const val DRINK = "饮品"
+    const val RARE = "奇珍"
+    const val OTHER = "其他"
+
+    val ALL = listOf(MAIN, SNACK, SOUP, SWEET, DRINK, RARE, OTHER)
+
+    fun emoji(category: String): String = when (category) {
+        MAIN -> "🍗"
+        SNACK -> "🍢"
+        SOUP -> "🍲"
+        SWEET -> "🍰"
+        DRINK -> "🥤"
+        RARE -> "✨"
+        else -> "🍽️"
+    }
+}

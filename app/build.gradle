@@ -1,1 +1,65 @@
-cGx1Z2lucyB7CiAgICBpZCAnY29tLmFuZHJvaWQuYXBwbGljYXRpb24nCiAgICBpZCAnb3JnLmpldGJyYWlucy5rb3RsaW4uYW5kcm9pZCcKfQoKZGVmIGtzUGF0aCA9IHByb2plY3QuZmluZFByb3BlcnR5KCdyZWxlYXNlS2V5c3RvcmUnKT8udG9TdHJpbmcoKQpkZWYgaGFzS3MgPSBrc1BhdGggIT0gbnVsbCAmJiBmaWxlKGtzUGF0aCkuZXhpc3RzKCkKCmFuZHJvaWQgewogICAgbmFtZXNwYWNlICdjb20ucGFpbW9uLmZvb2RkaWFyeScKICAgIGNvbXBpbGVTZGsgMzQKCiAgICBkZWZhdWx0Q29uZmlnIHsKICAgICAgICBhcHBsaWNhdGlvbklkICJjb20ucGFpbW9uLmZvb2RkaWFyeSIKICAgICAgICBtaW5TZGsgMjYKICAgICAgICB0YXJnZXRTZGsgMzQKICAgICAgICB2ZXJzaW9uQ29kZSAxCiAgICAgICAgdmVyc2lvbk5hbWUgIjEuMCIKICAgIH0KCiAgICBzaWduaW5nQ29uZmlncyB7CiAgICAgICAgaWYgKGhhc0tzKSB7CiAgICAgICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICAgICAgc3RvcmVGaWxlIGZpbGUoa3NQYXRoKQogICAgICAgICAgICAgICAgc3RvcmVQYXNzd29yZCBwcm9qZWN0LmZpbmRQcm9wZXJ0eSgncmVsZWFzZUtleXN0b3JlUGFzc3dvcmQnKT8udG9TdHJpbmcoKQogICAgICAgICAgICAgICAga2V5QWxpYXMgcHJvamVjdC5maW5kUHJvcGVydHkoJ3JlbGVhc2VLZXlBbGlhcycpPy50b1N0cmluZygpCiAgICAgICAgICAgICAgICBrZXlQYXNzd29yZCBwcm9qZWN0LmZpbmRQcm9wZXJ0eSgncmVsZWFzZUtleVBhc3N3b3JkJyk/LnRvU3RyaW5nKCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBidWlsZFR5cGVzIHsKICAgICAgICBkZWJ1ZyB7CiAgICAgICAgICAgIGFwcGxpY2F0aW9uSWRTdWZmaXggIiIKICAgICAgICB9CiAgICAgICAgcmVsZWFzZSB7CiAgICAgICAgICAgIG1pbmlmeUVuYWJsZWQgZmFsc2UKICAgICAgICAgICAgc2hyaW5rUmVzb3VyY2VzIGZhbHNlCiAgICAgICAgICAgIHByb2d1YXJkRmlsZXMgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgncHJvZ3VhcmQtYW5kcm9pZC1vcHRpbWl6ZS50eHQnKSwgJ3Byb2d1YXJkLXJ1bGVzLnBybycKICAgICAgICAgICAgaWYgKGhhc0tzKSB7CiAgICAgICAgICAgICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLnJlbGVhc2UKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMTcKICAgICAgICB0YXJnZXRDb21wYXRpYmlsaXR5IEphdmFWZXJzaW9uLlZFUlNJT05fMTcKICAgIH0KICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgIGp2bVRhcmdldCA9ICcxNycKICAgIH0KICAgIGxpbnQgewogICAgICAgIGFib3J0T25FcnJvciBmYWxzZQogICAgICAgIGNoZWNrUmVsZWFzZUJ1aWxkcyBmYWxzZQogICAgfQp9CgpkZXBlbmRlbmNpZXMgewogICAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LmNvcmU6Y29yZS1rdHg6MS4xMy4xJwogICAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LmFwcGNvbXBhdDphcHBjb21wYXQ6MS43LjAnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsOm1hdGVyaWFsOjEuMTIuMCcKICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0OmNvbnN0cmFpbnRsYXlvdXQ6Mi4xLjQnCiAgICBpbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgucmVjeWNsZXJ2aWV3OnJlY3ljbGVydmlldzoxLjMuMicKICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5mcmFnbWVudDpmcmFnbWVudC1rdHg6MS44LjInCn0K
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+}
+
+def ksPath = project.findProperty('releaseKeystore')?.toString()
+def hasKs = ksPath != null && file(ksPath).exists()
+
+android {
+    namespace 'com.paimon.fooddiary'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.paimon.fooddiary"
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    signingConfigs {
+        if (hasKs) {
+            release {
+                storeFile file(ksPath)
+                storePassword project.findProperty('releaseKeystorePassword')?.toString()
+                keyAlias project.findProperty('releaseKeyAlias')?.toString()
+                keyPassword project.findProperty('releaseKeyPassword')?.toString()
+            }
+        }
+    }
+
+    buildTypes {
+        debug {
+            applicationIdSuffix ""
+        }
+        release {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            if (hasKs) {
+                signingConfig signingConfigs.release
+            }
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+}
+
+dependencies {
+    implementation 'androidx.core:core-ktx:1.13.1'
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.recyclerview:recyclerview:1.3.2'
+    implementation 'androidx.fragment:fragment-ktx:1.8.2'
+}

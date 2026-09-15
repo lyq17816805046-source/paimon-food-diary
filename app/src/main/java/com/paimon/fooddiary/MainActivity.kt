@@ -1,1 +1,66 @@
-cGFja2FnZSBjb20ucGFpbW9uLmZvb2RkaWFyeQoKaW1wb3J0IGFuZHJvaWQuY29udGVudC5JbnRlbnQKaW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlCmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldwppbXBvcnQgYW5kcm9pZC53aWRnZXQuVG9hc3QKaW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHkKaW1wb3J0IGFuZHJvaWR4LmZyYWdtZW50LmFwcC5GcmFnbWVudAppbXBvcnQgY29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsLmJvdHRvbW5hdmlnYXRpb24uQm90dG9tTmF2aWdhdGlvblZpZXcKaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5zbmFja2Jhci5TbmFja2JhcgoKY2xhc3MgTWFpbkFjdGl2aXR5IDogQXBwQ29tcGF0QWN0aXZpdHkoKSB7CgogICAgcHJpdmF0ZSB2YXIgY3VycmVudFRhZzogU3RyaW5nID0gVEFHX0RJQVJZCgogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPykgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSkKICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKQogICAgICAgIERpYXJ5U3RvcmUuc2VlZElmRmlyc3RSdW4odGhpcykKCiAgICAgICAgdmFsIGJvdHRvbSA9IGZpbmRWaWV3QnlJZDxCb3R0b21OYXZpZ2F0aW9uVmlldz4oUi5pZC5ib3R0b21fbmF2KQogICAgICAgIGJvdHRvbS5zZXRPbkl0ZW1TZWxlY3RlZExpc3RlbmVyIHsgaXRlbSAtPgogICAgICAgICAgICB3aGVuIChpdGVtLml0ZW1JZCkgewogICAgICAgICAgICAgICAgUi5pZC5uYXZfZGlhcnkgLT4geyBzd2l0Y2hUbyhUQUdfRElBUlksIERpYXJ5RnJhZ21lbnQoKSk7IHRydWUgfQogICAgICAgICAgICAgICAgUi5pZC5uYXZfc3RhdHMgLT4geyBzd2l0Y2hUbyhUQUdfU1RBVFMsIFN0YXRzRnJhZ21lbnQoKSk7IHRydWUgfQogICAgICAgICAgICAgICAgZWxzZSAtPiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICAvLyDmtL7okpnmiY3kuI3mmK/lupTmgKXpo5/lk4HvvIHplb/mjInmoIfpopjnnIvnnIvlj43lupQKICAgICAgICBmaW5kVmlld0J5SWQ8Vmlldz4oUi5pZC50b29sYmFyKS5zZXRPbkxvbmdDbGlja0xpc3RlbmVyIHsKICAgICAgICAgICAgU25hY2tiYXIubWFrZShpdCwgZ2V0U3RyaW5nKFIuc3RyaW5nLm5vdF9lbWVyZ2VuY3lfZm9vZCksIFNuYWNrYmFyLkxFTkdUSF9MT05HKQogICAgICAgICAgICAgICAgLnNldEFjdGlvbigi5ZO877yBIiwgbnVsbCkuc2hvdygpCiAgICAgICAgICAgIHRydWUKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gc3dpdGNoVG8odGFnOiBTdHJpbmcsIGZyYWdtZW50OiBGcmFnbWVudCkgewogICAgICAgIGlmICh0YWcgPT0gY3VycmVudFRhZykgcmV0dXJuCiAgICAgICAgdmFsIGZtID0gc3VwcG9ydEZyYWdtZW50TWFuYWdlcgogICAgICAgIHZhbCB0eCA9IGZtLmJlZ2luVHJhbnNhY3Rpb24oKQogICAgICAgIGZtLmZpbmRGcmFnbWVudEJ5VGFnKGN1cnJlbnRUYWcpPy5sZXQgeyB0eC5oaWRlKGl0KSB9CiAgICAgICAgdmFsIGV4aXN0aW5nID0gZm0uZmluZEZyYWdtZW50QnlUYWcodGFnKQogICAgICAgIGlmIChleGlzdGluZyA9PSBudWxsKSB0eC5hZGQoUi5pZC5mcmFnbWVudF9ob2xkZXIsIGZyYWdtZW50LCB0YWcpIGVsc2UgdHguc2hvdyhleGlzdGluZykKICAgICAgICB0eC5jb21taXQoKQogICAgICAgIGN1cnJlbnRUYWcgPSB0YWcKICAgIH0KCiAgICBmdW4gb3BlbkVkaXRvcihpZDogTG9uZykgewogICAgICAgIHN0YXJ0QWN0aXZpdHkoSW50ZW50KHRoaXMsIEVkaXRFbnRyeUFjdGl2aXR5OjpjbGFzcy5qYXZhKS5wdXRFeHRyYShFZGl0RW50cnlBY3Rpdml0eS5FWFRSQV9JRCwgaWQpKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlci5maW5kRnJhZ21lbnRCeVRhZyhjdXJyZW50VGFnKT8ubGV0IHsKICAgICAgICAgICAgaWYgKGl0IGlzIERpYXJ5RnJhZ21lbnQpIGl0LnJlZnJlc2goKQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biB0b2FzdChtc2c6IFN0cmluZykgPSBUb2FzdC5tYWtlVGV4dCh0aGlzLCBtc2csIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpCgogICAgY29tcGFuaW9uIG9iamVjdCB7CiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgVEFHX0RJQVJZID0gImRpYXJ5IgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIFRBR19TVEFUUyA9ICJzdGF0cyIKICAgIH0KfQo=
+package com.paimon.fooddiary
+
+import android.content.Intent
+import android.os.Bundle
+import android.view.View
+import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
+import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.google.android.material.snackbar.Snackbar
+
+class MainActivity : AppCompatActivity() {
+
+    private var currentTag: String = TAG_DIARY
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+        DiaryStore.seedIfFirstRun(this)
+
+        val bottom = findViewById<BottomNavigationView>(R.id.bottom_nav)
+        bottom.setOnItemSelectedListener { item ->
+            when (item.itemId) {
+                R.id.nav_diary -> { switchTo(TAG_DIARY, DiaryFragment()); true }
+                R.id.nav_stats -> { switchTo(TAG_STATS, StatsFragment()); true }
+                else -> false
+            }
+        }
+
+        // 派蒙才不是应急食品！长按标题看看反应
+        findViewById<View>(R.id.toolbar).setOnLongClickListener {
+            Snackbar.make(it, getString(R.string.not_emergency_food), Snackbar.LENGTH_LONG)
+                .setAction("哼！", null).show()
+            true
+        }
+    }
+
+    private fun switchTo(tag: String, fragment: Fragment) {
+        if (tag == currentTag) return
+        val fm = supportFragmentManager
+        val tx = fm.beginTransaction()
+        fm.findFragmentByTag(currentTag)?.let { tx.hide(it) }
+        val existing = fm.findFragmentByTag(tag)
+        if (existing == null) tx.add(R.id.fragment_holder, fragment, tag) else tx.show(existing)
+        tx.commit()
+        currentTag = tag
+    }
+
+    fun openEditor(id: Long) {
+        startActivity(Intent(this, EditEntryActivity::class.java).putExtra(EditEntryActivity.EXTRA_ID, id))
+    }
+
+    override fun onResume() {
+        super.onResume()
+        supportFragmentManager.findFragmentByTag(currentTag)?.let {
+            if (it is DiaryFragment) it.refresh()
+        }
+    }
+
+    private fun toast(msg: String) = Toast.makeText(this, msg, Toast.LENGTH_SHORT).show()
+
+    companion object {
+        private const val TAG_DIARY = "diary"
+        private const val TAG_STATS = "stats"
+    }
+}

@@ -1,1 +1,100 @@
-cGFja2FnZSBjb20ucGFpbW9uLmZvb2RkaWFyeQoKaW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlCmltcG9ydCBhbmRyb2lkLndpZGdldC5BcnJheUFkYXB0ZXIKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkJ1dHRvbgppbXBvcnQgYW5kcm9pZC53aWRnZXQuRWRpdFRleHQKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlJhdGluZ0JhcgppbXBvcnQgYW5kcm9pZC53aWRnZXQuU3Bpbm5lcgppbXBvcnQgYW5kcm9pZC53aWRnZXQuVGV4dFZpZXcKaW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHkKaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5kaWFsb2cuTWF0ZXJpYWxBbGVydERpYWxvZ0J1aWxkZXIKCmNsYXNzIEVkaXRFbnRyeUFjdGl2aXR5IDogQXBwQ29tcGF0QWN0aXZpdHkoKSB7CgogICAgcHJpdmF0ZSB2YXIgZW50cnlJZDogTG9uZyA9IC0xTAogICAgcHJpdmF0ZSB2YXIgY3JlYXRlZEF0OiBMb25nID0gMEwKICAgIHByaXZhdGUgdmFyIGlzRmF2b3JpdGU6IEJvb2xlYW4gPSBmYWxzZQoKICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfZWRpdCkKICAgICAgICB0aXRsZSA9IGdldFN0cmluZyhSLnN0cmluZy5lZGl0X3RpdGxlKQoKICAgICAgICB2YWwgbmFtZUJveCA9IGZpbmRWaWV3QnlJZDxFZGl0VGV4dD4oUi5pZC5lZGl0X25hbWUpCiAgICAgICAgdmFsIG5vdGVCb3ggPSBmaW5kVmlld0J5SWQ8RWRpdFRleHQ+KFIuaWQuZWRpdF9ub3RlKQogICAgICAgIHZhbCBzcGlubmVyID0gZmluZFZpZXdCeUlkPFNwaW5uZXI+KFIuaWQuZWRpdF9jYXRlZ29yeSkKICAgICAgICB2YWwgcmF0aW5nQmFyID0gZmluZFZpZXdCeUlkPFJhdGluZ0Jhcj4oUi5pZC5lZGl0X3JhdGluZykKICAgICAgICB2YWwgZmF2VG9nZ2xlID0gZmluZFZpZXdCeUlkPFRleHRWaWV3PihSLmlkLmVkaXRfZmF2KQogICAgICAgIHZhbCB0aW1lVmlldyA9IGZpbmRWaWV3QnlJZDxUZXh0Vmlldz4oUi5pZC5lZGl0X3RpbWUpCiAgICAgICAgdmFsIHNhdmUgPSBmaW5kVmlld0J5SWQ8QnV0dG9uPihSLmlkLmJ0bl9zYXZlKQogICAgICAgIHZhbCBkZWwgPSBmaW5kVmlld0J5SWQ8QnV0dG9uPihSLmlkLmJ0bl9kZWxldGUpCgogICAgICAgIHNwaW5uZXIuYWRhcHRlciA9IEFycmF5QWRhcHRlcigKICAgICAgICAgICAgdGhpcywgYW5kcm9pZC5SLmxheW91dC5zaW1wbGVfc3Bpbm5lcl9kcm9wZG93bl9pdGVtLCBDYXRlZ29yaWVzLkFMTAogICAgICAgICkKCiAgICAgICAgZW50cnlJZCA9IGludGVudC5nZXRMb25nRXh0cmEoRVhUUkFfSUQsIC0xTCkKICAgICAgICB2YWwgZXhpc3RpbmcgPSBpZiAoZW50cnlJZCA+IDApIERpYXJ5U3RvcmUuZmluZCh0aGlzLCBlbnRyeUlkKSBlbHNlIG51bGwKICAgICAgICBpZiAoZXhpc3RpbmcgIT0gbnVsbCkgewogICAgICAgICAgICBuYW1lQm94LnNldFRleHQoZXhpc3RpbmcubmFtZSkKICAgICAgICAgICAgbm90ZUJveC5zZXRUZXh0KGV4aXN0aW5nLm5vdGUpCiAgICAgICAgICAgIHJhdGluZ0Jhci5yYXRpbmcgPSBleGlzdGluZy5yYXRpbmcudG9GbG9hdCgpCiAgICAgICAgICAgIHNwaW5uZXIuc2V0U2VsZWN0aW9uKENhdGVnb3JpZXMuQUxMLmluZGV4T2YoZXhpc3RpbmcuY2F0ZWdvcnkpLmNvZXJjZUF0TGVhc3QoMCkpCiAgICAgICAgICAgIGNyZWF0ZWRBdCA9IGV4aXN0aW5nLnRpbWUKICAgICAgICAgICAgaXNGYXZvcml0ZSA9IGV4aXN0aW5nLmZhdm9yaXRlCiAgICAgICAgICAgIGRlbC52aXNpYmlsaXR5ID0gYW5kcm9pZC52aWV3LlZpZXcuVklTSUJMRQogICAgICAgICAgICBkZWwuc2V0T25DbGlja0xpc3RlbmVyIHsgY29uZmlybURlbGV0ZShleGlzdGluZykgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGVudHJ5SWQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKQogICAgICAgICAgICBpc0Zhdm9yaXRlID0gZmFsc2UKICAgICAgICAgICAgY3JlYXRlZEF0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKICAgICAgICAgICAgZGVsLnZpc2liaWxpdHkgPSBhbmRyb2lkLnZpZXcuVmlldy5HT05FCiAgICAgICAgfQogICAgICAgIGZhdlRvZ2dsZS50ZXh0ID0gZmF2VGV4dChpc0Zhdm9yaXRlKQogICAgICAgIGZhdlRvZ2dsZS5zZXRPbkNsaWNrTGlzdGVuZXIgewogICAgICAgICAgICBpc0Zhdm9yaXRlID0gIWlzRmF2b3JpdGUKICAgICAgICAgICAgZmF2VG9nZ2xlLnRleHQgPSBmYXZUZXh0KGlzRmF2b3JpdGUpCiAgICAgICAgfQoKICAgICAgICB0aW1lVmlldy50ZXh0ID0gZ2V0U3RyaW5nKFIuc3RyaW5nLnJlY29yZF90aW1lLCBhbmRyb2lkLnRleHQuZm9ybWF0LkRhdGVGb3JtYXQuZm9ybWF0KCJ5eXl5LU1NLWRkIEhIOm1tIiwgY3JlYXRlZEF0KSkKCiAgICAgICAgc2F2ZS5zZXRPbkNsaWNrTGlzdGVuZXIgewogICAgICAgICAgICB2YWwgbmFtZSA9IG5hbWVCb3gudGV4dC50b1N0cmluZygpLnRyaW0oKQogICAgICAgICAgICBpZiAobmFtZS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgIG5hbWVCb3guZXJyb3IgPSBnZXRTdHJpbmcoUi5zdHJpbmcubmVlZF9uYW1lKQogICAgICAgICAgICAgICAgcmV0dXJuQHNldE9uQ2xpY2tMaXN0ZW5lcgogICAgICAgICAgICB9CiAgICAgICAgICAgIHZhbCBlbnRyeSA9IEZvb2RFbnRyeSgKICAgICAgICAgICAgICAgIGlkID0gZW50cnlJZCwKICAgICAgICAgICAgICAgIG5hbWUgPSBuYW1lLAogICAgICAgICAgICAgICAgY2F0ZWdvcnkgPSBzcGlubmVyLnNlbGVjdGVkSXRlbT8udG9TdHJpbmcoKSA/OiBDYXRlZ29yaWVzLk9USEVSLAogICAgICAgICAgICAgICAgcmF0aW5nID0gcmF0aW5nQmFyLnJhdGluZy50b0ludCgpLmNvZXJjZUluKDEsIDUpLAogICAgICAgICAgICAgICAgbm90ZSA9IG5vdGVCb3gudGV4dC50b1N0cmluZygpLnRyaW0oKSwKICAgICAgICAgICAgICAgIHRpbWUgPSBjcmVhdGVkQXQsCiAgICAgICAgICAgICAgICBmYXZvcml0ZSA9IGlzRmF2b3JpdGUKICAgICAgICAgICAgKQogICAgICAgICAgICBEaWFyeVN0b3JlLnVwc2VydCh0aGlzLCBlbnRyeSkKICAgICAgICAgICAgZmluaXNoKCkKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gZmF2VGV4dChvbjogQm9vbGVhbik6IFN0cmluZyA9CiAgICAgICAgaWYgKG9uKSBnZXRTdHJpbmcoUi5zdHJpbmcuZmF2X29uKSBlbHNlIGdldFN0cmluZyhSLnN0cmluZy5mYXZfb2ZmKQoKICAgIHByaXZhdGUgZnVuIGNvbmZpcm1EZWxldGUoZW50cnk6IEZvb2RFbnRyeSkgewogICAgICAgIE1hdGVyaWFsQWxlcnREaWFsb2dCdWlsZGVyKHRoaXMpCiAgICAgICAgICAgIC5zZXRUaXRsZShSLnN0cmluZy5kZWxldGVfdGl0bGUpCiAgICAgICAgICAgIC5zZXRNZXNzYWdlKGdldFN0cmluZyhSLnN0cmluZy5kZWxldGVfbWVzc2FnZSwgZW50cnkubmFtZSkpCiAgICAgICAgICAgIC5zZXROZWdhdGl2ZUJ1dHRvbihSLnN0cmluZy5jYW5jZWwsIG51bGwpCiAgICAgICAgICAgIC5zZXRQb3NpdGl2ZUJ1dHRvbihSLnN0cmluZy5kZWxldGUpIHsgXywgXyAtPgogICAgICAgICAgICAgICAgRGlhcnlTdG9yZS5kZWxldGUodGhpcywgZW50cnkuaWQpCiAgICAgICAgICAgICAgICBmaW5pc2goKQogICAgICAgICAgICB9CiAgICAgICAgICAgIC5zaG93KCkKICAgIH0KCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBjb25zdCB2YWwgRVhUUkFfSUQgPSAiZW50cnlfaWQiCiAgICB9Cn0K
+package com.paimon.fooddiary
+
+import android.os.Bundle
+import android.widget.ArrayAdapter
+import android.widget.Button
+import android.widget.EditText
+import android.widget.RatingBar
+import android.widget.Spinner
+import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
+import com.google.android.material.dialog.MaterialAlertDialogBuilder
+
+class EditEntryActivity : AppCompatActivity() {
+
+    private var entryId: Long = -1L
+    private var createdAt: Long = 0L
+    private var isFavorite: Boolean = false
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_edit)
+        title = getString(R.string.edit_title)
+
+        val nameBox = findViewById<EditText>(R.id.edit_name)
+        val noteBox = findViewById<EditText>(R.id.edit_note)
+        val spinner = findViewById<Spinner>(R.id.edit_category)
+        val ratingBar = findViewById<RatingBar>(R.id.edit_rating)
+        val favToggle = findViewById<TextView>(R.id.edit_fav)
+        val timeView = findViewById<TextView>(R.id.edit_time)
+        val save = findViewById<Button>(R.id.btn_save)
+        val del = findViewById<Button>(R.id.btn_delete)
+
+        spinner.adapter = ArrayAdapter(
+            this, android.R.layout.simple_spinner_dropdown_item, Categories.ALL
+        )
+
+        entryId = intent.getLongExtra(EXTRA_ID, -1L)
+        val existing = if (entryId > 0) DiaryStore.find(this, entryId) else null
+        if (existing != null) {
+            nameBox.setText(existing.name)
+            noteBox.setText(existing.note)
+            ratingBar.rating = existing.rating.toFloat()
+            spinner.setSelection(Categories.ALL.indexOf(existing.category).coerceAtLeast(0))
+            createdAt = existing.time
+            isFavorite = existing.favorite
+            del.visibility = android.view.View.VISIBLE
+            del.setOnClickListener { confirmDelete(existing) }
+        } else {
+            entryId = System.currentTimeMillis()
+            isFavorite = false
+            createdAt = System.currentTimeMillis()
+            del.visibility = android.view.View.GONE
+        }
+        favToggle.text = favText(isFavorite)
+        favToggle.setOnClickListener {
+            isFavorite = !isFavorite
+            favToggle.text = favText(isFavorite)
+        }
+
+        timeView.text = getString(R.string.record_time, android.text.format.DateFormat.format("yyyy-MM-dd HH:mm", createdAt))
+
+        save.setOnClickListener {
+            val name = nameBox.text.toString().trim()
+            if (name.isEmpty()) {
+                nameBox.error = getString(R.string.need_name)
+                return@setOnClickListener
+            }
+            val entry = FoodEntry(
+                id = entryId,
+                name = name,
+                category = spinner.selectedItem?.toString() ?: Categories.OTHER,
+                rating = ratingBar.rating.toInt().coerceIn(1, 5),
+                note = noteBox.text.toString().trim(),
+                time = createdAt,
+                favorite = isFavorite
+            )
+            DiaryStore.upsert(this, entry)
+            finish()
+        }
+    }
+
+    private fun favText(on: Boolean): String =
+        if (on) getString(R.string.fav_on) else getString(R.string.fav_off)
+
+    private fun confirmDelete(entry: FoodEntry) {
+        MaterialAlertDialogBuilder(this)
+            .setTitle(R.string.delete_title)
+            .setMessage(getString(R.string.delete_message, entry.name))
+            .setNegativeButton(R.string.cancel, null)
+            .setPositiveButton(R.string.delete) { _, _ ->
+                DiaryStore.delete(this, entry.id)
+                finish()
+            }
+            .show()
+    }
+
+    companion object {
+        const val EXTRA_ID = "entry_id"
+    }
+}
